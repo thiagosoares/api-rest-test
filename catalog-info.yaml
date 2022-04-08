@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: api-rest-test
+  annotations:
+    github.com/project-slug: thiagosoares/api-rest-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-b
